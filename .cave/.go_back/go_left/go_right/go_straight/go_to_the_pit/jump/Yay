@@ -1,0 +1,21 @@
+Yay! You made it! Good job!
+
+If you did it perfectly on the first try, you should have only used 'cd' 6 times.
+
+If not, you fell for a 'symbolic link.' Symbolic links are like 'shortcuts.' Many of
+the symbolic links would have taken you an arbitrary number of parent directorys backwards,
+or did some other evil stuff.
+
+You can create a symbolic link of your own doing this:
+
+$ ln -s name_of_thing_the_link_to name_of_your_link
+
+This concludes the scavenger hunt!
+
+To prove that you finished... here is a code:
+
+50f4ee22df64a658b37fbd8fcdcbc284d923215eae602105ab1d600b8ce106e7ff79d39465939cdd2c763bd6b34e914e
+
+Have fun!
+
+Made by Ethan Cheng
